@@ -6,7 +6,7 @@
 
 # React Menu App
 
-![](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg)
+![](https://github.com/s1een/react-color-app/blob/master/public/images/img.PNG?raw=true)
 
 ## Technologies used in the development:
 
