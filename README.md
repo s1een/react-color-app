@@ -4,7 +4,7 @@
 - This application is designed to generate colors in HEX format.
 - The application can be tested from the [link](https://s1een.github.io/react-color-app/ "link").
 
-# React Menu App
+# React Color Generator App
 
 ![](https://github.com/s1een/react-color-app/blob/master/public/images/img.PNG?raw=true)
 
